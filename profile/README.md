@@ -22,19 +22,21 @@ This is an **unofficial personal fork collection** maintained by [@builtbyjasim]
 
 All seven projects were created using GitHub native forks, with the main-only option disabled. Original commit history, authorship, license files, and notices remain in their respective repositories. No application source code was edited. Each project retains its original license and asset/trademark terms; no additional rights are granted here.
 
-**Last verified: 16 October 2026.** All seven public repositories exist in this organization. Daily workflows are configured for the default branch at **02:23 UTC (07:53 India time)**. All seven initial manual verification runs were submitted and were **queued** at last inspection; successful execution is not yet verified. This date is an existence/configuration check, not a successful scheduled synchronization. Check the live run links below for current results.
+**Last verified: 16 October 2026.** All seven public repositories exist in this organization. Daily workflows are configured for the default branch at **02:23 UTC (07:53 India time)**. All seven initial manual synchronization runs **completed successfully**, verified on 16 October 2026. EffectCraft fetched and merged upstream updates; the other six found no missing upstream commits. All seven workflows are enabled with the daily schedule committed on the default branch. The first scheduled run has not yet been verified. Check the live run links below for current results.
 
 Preservation policy: create a backup reference before updating; never force-push, delete repositories or branches, or discard independent changes. Stop on merge conflicts. An unavailable upstream must leave existing forks intact.
 
 | Project | Initial verification run |
 | --- | --- |
-| photocraft | [Run #1](https://github.com/storytold-artcraft-forks/photocraft/actions/runs/38897769978) — queued at last check |
-| vectorcraft | [Run #1](https://github.com/storytold-artcraft-forks/vectorcraft/actions/runs/38897930980) — queued at last check |
-| filmcraft | [Run #1](https://github.com/storytold-artcraft-forks/filmcraft/actions/runs/38897940521) — queued at last check |
-| lightcraft | [Run #1](https://github.com/storytold-artcraft-forks/lightcraft/actions/runs/38897976063) — queued at last check |
-| pdfcraft | [Run #1](https://github.com/storytold-artcraft-forks/pdfcraft/actions/runs/38897985998) — queued at last check |
-| effectcraft | [Run #1](https://github.com/storytold-artcraft-forks/effectcraft/actions/runs/38898008636) — queued at last check |
-| designcraft | [Run #1](https://github.com/storytold-artcraft-forks/designcraft/actions/runs/38898030544) — queued at last check |
+| photocraft | [Run #1](https://github.com/storytold-artcraft-forks/photocraft/actions/runs/38897769978) — success |
+| vectorcraft | [Run #1](https://github.com/storytold-artcraft-forks/vectorcraft/actions/runs/38897930980) — success |
+| filmcraft | [Run #1](https://github.com/storytold-artcraft-forks/filmcraft/actions/runs/38897940521) — success |
+| lightcraft | [Run #1](https://github.com/storytold-artcraft-forks/lightcraft/actions/runs/38897976063) — success |
+| pdfcraft | [Run #1](https://github.com/storytold-artcraft-forks/pdfcraft/actions/runs/38897985998) — success |
+| effectcraft | [Run #1](https://github.com/storytold-artcraft-forks/effectcraft/actions/runs/38898008636) — success |
+| designcraft | [Run #1](https://github.com/storytold-artcraft-forks/designcraft/actions/runs/38898030544) — success |
+
+**Verified backup reference:** [EffectCraft preservation/backup-38898008636-1](https://github.com/storytold-artcraft-forks/effectcraft/tree/preservation/backup-38898008636-1) exists and was created before its upstream merge. The other six forks have no preservation backup branches yet because their initial checks required no merge; backups are created when updates are applied.
 
 ### How synchronization works
 
